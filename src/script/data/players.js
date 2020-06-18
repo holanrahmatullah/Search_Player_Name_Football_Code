@@ -1,0 +1,7 @@
+const players = [{
+    name: "we",
+    stadium: "Emirates Stadium",
+    fanArt: "https://www.thesportsdb.com/images/media/player/fanart/wyyyvv1421251691.jpg",
+    description: "Daniel Nii Tackie Mensah Welbeck (born 26 November 1990) is an English professional footballer who plays as a forward for Premier League club Watford and the England national team.\r\n\r\nWelbeck made his way through the youth teams at Manchester United before making his senior debut in 2008 and scoring in the process. He was with United when they won the 2008–09 League Cup and the 2008 FIFA Club World Cup before being sent on loan to Preston North End and more recently Sunderland. From the 2011–12 season, Welbeck was a regular figure in the Manchester United first team. He was transferred to Arsenal in September 2014 for a £16 million fee. In August 2019, Welbeck joined Watford following his release by Arsenal at the end of the previous season.\r\n\r\nHe made his senior England debut in March 2011 in a 1–1 friendly draw against Ghana, the homeland of both of his parents. He scored his first senior international goal on 2 June 2012, the only goal in a friendly victory over Belgium. Welbeck has gone on to represent England at UEFA Euro 2012, the 2014 FIFA World Cup and the 2018 FIFA World Cup, earning over 40 caps."
+}];
+export default players;
